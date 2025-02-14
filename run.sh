@@ -1,0 +1,1 @@
+/home/wan/bochs/bin/bochs -f bochsrc.disk
